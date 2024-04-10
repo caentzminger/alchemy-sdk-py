@@ -28,6 +28,7 @@ class Network(BaseEnum):
     ARB_MAINNET = 'arb-mainnet'
     ARB_GOERLI = 'arb-goerli'
     ASTAR_MAINNET = 'astar-mainnet'
+    BASE_MAINNET = 'base-mainnet'
 
 
 class AlchemyApiType(BaseEnum):
